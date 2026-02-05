@@ -1,0 +1,5 @@
+Reread your instructions and double check that your .log/X.n.m/worklog*.txt files conform to the guide.
+
+Remember to include motivation, reasoning, changelog, explanation, and references sections. Think carefully about what steps you thought through in the earlier parts of the conversation to make sure you didn't miss any mental detours. Writing down what you tried that didn't work, or what you assumed that was incorrect, is especially helpful for people reading this in the future.
+
+Then add the doc to the docs repo.

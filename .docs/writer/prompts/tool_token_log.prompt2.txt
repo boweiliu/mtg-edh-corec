@@ -1,0 +1,3 @@
+Write to your logfile immediately and as you work. Make sure you include thinking, planning, or user-prompt blocks.
+
+<TASK>

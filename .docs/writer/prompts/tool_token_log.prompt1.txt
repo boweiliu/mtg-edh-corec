@@ -1,0 +1,10 @@
+For the rest of this session, please track all tool calls (read/write, grepping, shell) and their token usage. Also track token consumption from planning, subagents, or processing user prompts.
+
+Info to include: idx, tool/`plan`/`prompt`, purpose, args, results, tokens_tshirt_estimate, exit_code (only if applicable), duration in ms (only if applicable).
+
+  For grepping, args might include the regex, the glob, and the path, '.' if searching in the cwd.
+  Results might include the line range that was read, or the count of lines that were written. Or the size of any applied patches for editing.
+
+Your agent id is X.n.m, so you should start by creating a file like .log/X.n.m/tool_token_log.txt.
+
+Write to your logfile immediately and as you work. Make sure you include thinking, planning, or user-prompt blocks.
